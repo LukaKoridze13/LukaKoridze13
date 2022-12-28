@@ -34,7 +34,7 @@
 
 ![snake gif](https://github.com/LukaKoridze13/LukaKoridze13/blob/output/github-contribution-grid-snake.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LukaKoridze&show_icons=true&theme=dark&text_color=FFFFFF&locale=en&layout=compact" alt="Luka Koridze" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LukaKoridze13&show_icons=true&theme=dark&text_color=FFFFFF&locale=en&layout=compact" alt="Luka Koridze" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LukaKoridze13&show_icons=true&theme=dark&text_color=FFFFFF&locale=en" alt="Luka Koridze" /></p>
 
