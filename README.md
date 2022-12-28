@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka Koridze</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
-
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/102786563?s=400&u=b060a8519fed11def30c2d8bdc17bbbcdcbec307&v=4" alt="Luka Koridze" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LukaKoridze13" alt="Luka Koridze" /></a> </p>
 
 - 🌱 I’m currently mentoring in the Bitcamp **https://bitcamp.ge/** , Tbilisi Bootcamp  and re:school **https://reeducate.space/#/**
