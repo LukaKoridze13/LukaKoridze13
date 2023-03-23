@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Georgia</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LukaKoridze13" alt="Luka Koridze" /></a> </p>
 
-- 🌱 I’m currently mentoring in the Bitcamp **https://bitcamp.ge/** , Tbilisi Bootcamp  and re:school **https://reeducate.space/#/**
+- 🌱 I’m currently working at Nomadao.net and mentoring in re:school **https://reeducate.space/#/**
 
 - 👨‍💻 All of my projects are available at [LukaKoridze13](https://github.com/LukaKoridze13)
 
