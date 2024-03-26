@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Georgia</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LukaKoridze13" alt="Luka Koridze" /></a> </p>
 
-- 👨‍💻 Check out my digital agency at [Webico]([https://github.com/LukaKoridze13](https://www.webico.ge/en))
+- 👨‍💻 Check out my digital agency at [Webico](https://www.webico.ge/en)
 
 - 📫 How to reach me [Luka Koridze](https://www.linkedin.com/in/lukakoridze/)
 
