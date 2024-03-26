@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineer from Georgia</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LukaKoridze13" alt="Luka Koridze" /></a> </p>
 
-- 🌱 I’m currently working at Upwork and mentoring in re:school **https://reeducate.space/#/**
-
-- 👨‍💻 All of my projects are available at [LukaKoridze13](https://github.com/LukaKoridze13)
+- 👨‍💻 Check out my digital agency at [Webico]([https://github.com/LukaKoridze13](https://www.webico.ge/en))
 
 - 📫 How to reach me [Luka Koridze](https://www.linkedin.com/in/lukakoridze/)
 
