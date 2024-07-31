@@ -15,7 +15,7 @@
 <h3 align="left">In front-end development, I use:</h3>
 <p align="left"> 
 <image  height="50" src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="React" />
-<image  height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS" />   
+<image  height="50" src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="NextJS" />   
 <image  height="50" src="https://static-00.iconduck.com/assets.00/html-5-icon-224x256-1b5ud2sy.png" alt="Rust" />
     
 ![snake gif](https://github.com/LukaKoridze13/LukaKoridze13/blob/output/github-contribution-grid-snake.gif)
