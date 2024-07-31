@@ -8,7 +8,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <image width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
-<image width="50" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="JavaScript" />
+<image width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAo2CD-hFWMUayHGSZY-Q10FXl8z2JMyL9A&s" alt="JavaScript" />
   <image width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
     
 ![snake gif](https://github.com/LukaKoridze13/LukaKoridze13/blob/output/github-contribution-grid-snake.gif)
