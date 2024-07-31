@@ -25,6 +25,10 @@
 <image  height="50" src="https://miro.medium.com/v2/resize:fit:512/1*5w64FYyee-VNXPWvVKhYEg.png" alt="NextJS" />   
 <p>Node.js with <strong>Express</strong> and <strong>Nest.js</strong>, Rust with <strong>Axum</strong></p>   
 
+<h3 align="left">Databases:</h3>
+<p align="left"> 
+<image  height="50" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="React" />
+
 ![snake gif](https://github.com/LukaKoridze13/LukaKoridze13/blob/output/github-contribution-grid-snake.gif)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LukaKoridze13&show_icons=true&theme=dark&text_color=FFFFFF&locale=en&layout=compact" alt="Luka Koridze" /></p>
