@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luka Koridze</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LukaKoridze13" alt="Luka Koridze" /></a> </p>
 
 - 👨‍💻 Check out my digital agency at [Webico](https://www.webico.ge/en)
 
-- 📫 How to reach me [Luka Koridze](https://www.linkedin.com/in/lukakoridze/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lukakoridze/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luka Koridze" height="30" width="40" /></a>
-
+- 📫 Contact me using [LinkedIn](https://www.linkedin.com/in/lukakoridze/) or <a href="mailto:lukakoridze13@gmail.com" target="_blank">lukakoridze13@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
