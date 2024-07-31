@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check out my digital agency at [Webico](https://www.webico.ge/en)
 
-- 📫 Contact me using [LinkedIn](https://www.linkedin.com/in/lukakoridze/) or <a href="mailto:lukakoridze13@gmail.com" target="_blank">lukakoridze13@gmail.com</a>
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/lukakoridze/) or send an email to <a href="mailto:lukakoridze13@gmail.com" target="_blank">lukakoridze13@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
