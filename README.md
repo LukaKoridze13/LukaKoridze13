@@ -7,8 +7,10 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-<image style="border-radius: 16px;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
-
+<image width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
+<image width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" alt="JavaScript" />
+  <image width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
+    
 ![snake gif](https://github.com/LukaKoridze13/LukaKoridze13/blob/output/github-contribution-grid-snake.gif)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LukaKoridze13&show_icons=true&theme=dark&text_color=FFFFFF&locale=en&layout=compact" alt="Luka Koridze" /></p>
