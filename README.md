@@ -8,9 +8,15 @@
 <h3 align="left">I code in:</h3>
 <p align="left"> 
 <image width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" />
-<image style="margin-left:10px;" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="TypeScript" />   
+<image width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="TypeScript" />   
 <image width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAo2CD-hFWMUayHGSZY-Q10FXl8z2JMyL9A&s" alt="Rust" />
 <p>I also specialize in <strong>Statement List (STL) programming</strong> for Siemens.</p>
+
+<h3 align="left">In front-end development, I use:</h3>
+<p align="left"> 
+<image width="50" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png" alt="React" />
+<image width="50" src="https://miro.medium.com/v2/resize:fit:1400/1*BQZAbczBfLYtPp-6HmN0ZQ.jpeg" alt="NextJS" />   
+<image width="50" src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="Rust" />
     
 ![snake gif](https://github.com/LukaKoridze13/LukaKoridze13/blob/output/github-contribution-grid-snake.gif)
 
