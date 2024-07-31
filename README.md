@@ -14,9 +14,9 @@
 
 <h3 align="left">In front-end development, I use:</h3>
 <p align="left"> 
-<image width="50" height="50" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png" alt="React" />
-<image width="50" height="50" src="https://miro.medium.com/v2/resize:fit:1400/1*BQZAbczBfLYtPp-6HmN0ZQ.jpeg" alt="NextJS" />   
-<image width="50" height="50" src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="Rust" />
+<image  height="50" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png" alt="React" />
+<image  height="50" src="https://miro.medium.com/v2/resize:fit:1400/1*BQZAbczBfLYtPp-6HmN0ZQ.jpeg" alt="NextJS" />   
+<image  height="50" src="https://kinsta.com/wp-content/uploads/2021/03/HTML-5-Badge-Logo.png" alt="Rust" />
     
 ![snake gif](https://github.com/LukaKoridze13/LukaKoridze13/blob/output/github-contribution-grid-snake.gif)
 
